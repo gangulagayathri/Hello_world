@@ -1,2 +1,2 @@
 adding the new line to the file
-hi hello hi hello GIT HUb
+hello hi hello GIT HUb
